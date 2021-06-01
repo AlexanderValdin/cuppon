@@ -1,6 +1,7 @@
 *{
   font-family: 'Roboto', sans-serif;
 }
+
 nav {
   background-color: #28A745;
 }
@@ -29,4 +30,33 @@ p {
 
 .price, .desc-price {
   display: inline-block;
+}
+
+.desc-price {
+  color: #28A745;
+  font-weight: bold;
+}
+
+footer .contact {
+  background-color: #28A745;
+  min-height: 241px;
+}
+
+.contact h3 {
+  color: #FFFFFF;
+  font-size: 21px;
+  font-weight: normal;
+}
+
+form {
+  width: 90%;
+}
+
+.btn {
+  margin: auto;
+}
+
+footer img {
+  width: 82px;
+
 }
